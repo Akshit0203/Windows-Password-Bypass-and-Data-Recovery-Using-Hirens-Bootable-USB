@@ -407,12 +407,4 @@ Do **not** use these techniques to bypass authentication, access data, or modify
 
 ---
 
-## 👨‍💻 Author
-
-**Akshit**
-
-Cybersecurity | Offensive & Defensive Security | Digital Forensics | Endpoint Security
-
----
-
 ⭐ If you found this project useful, consider starring the repository.
